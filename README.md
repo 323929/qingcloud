@@ -1,1 +1,1 @@
-# qingcloud monitor scripts
+# 通过调用青云的api接口，获取青云rdb数据库和流量相关数据，结合zabbix进行监控。
